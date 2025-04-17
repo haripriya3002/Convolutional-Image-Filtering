@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition using Convolution
+# Convolutional Image Filtering
 
 This project demonstrates how a basic **Convolutional Neural Network (CNN)** can be used to recognize a self-drawn handwritten digit (in this case, the number **6**) from a black background image. The project is built from scratch using **TensorFlow/Keras** and works with custom image input.
 
